@@ -44,7 +44,7 @@ Several types of visualizations were performed, including:
 
 ## Installation
 
-- Prerequisites
+Prerequisites
 - Python 3.7+
 
 ## Usage
