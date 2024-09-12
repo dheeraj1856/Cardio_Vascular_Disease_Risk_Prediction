@@ -4,7 +4,6 @@ This repository contains a comprehensive analysis and machine learning pipeline 
 
 ## Table of Contents
 - [Overview](#overview)
-- [Project Structure](#project-structure)
 - [Data Cleaning](#data-cleaning)
 - [Data Visualization](#data-visualization)
 - [Modeling and Evaluation](#modeling-and-evaluation)
@@ -21,14 +20,6 @@ This project analyzes a dataset (`CVD_cleaned.csv`) with information on cardiova
 - Health conditions (e.g., Diabetes, Arthritis, Heart Disease)
 
 It builds a machine learning model using XGBoost to predict the presence of heart disease. Additionally, extensive exploratory data analysis (EDA) is performed to understand feature distributions, relationships, and correlations.
-
-## Project Structure
-
-```bash
-├── CVD_cleaned.csv         # Dataset for analysis
-├── Cardio_Vascular_Disease_Risk_Prediction.py             # Python script with data cleaning, visualization, and modeling code
-├── README.md               # Project documentation
-└── requirements.txt        # Required Python packages
 
 ## Data Cleaning
 
