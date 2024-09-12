@@ -52,7 +52,7 @@ Prerequisites
 - Place your dataset (CVD_cleaned.csv) in the root folder.
 - Run the Cardio_Vascular_Disease_Risk_Prediction.py script to perform the analysis and model training:
 
-Results
+## Results
 - The model achieves 21% precision and 77% recall for predicting heart disease, with an ROC-AUC score of 0.75.
 - The analysis provides insights into how factors like BMI, exercise, and age are related to cardiovascular diseases.
 - See the visualizations generated during analysis for detailed patterns and trends.
